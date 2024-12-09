@@ -1,0 +1,77 @@
+64
+64
+28
+36
+3.359375
+
+0	R0DYT          	   69	NO	3
+1	EqqZijhgd      	   70	NO	3
+2	---               ---	---	---
+3	---               ---	---	---
+4	dMGaKnGPLB     	    4	YES	1
+5	xuLXDr         	    4	NO	2
+6	---               ---	---	---
+7	---               ---	---	---
+8	H6Uk1u1        	    8	YES	1
+9	ShvlBo0FSY     	    9	YES	1
+10	vC3GoGA2piSN5U 	    8	NO	3
+11	CtTMq6Ql       	    8	NO	4
+12	Cqq7rbgqW06S   	    9	NO	4
+13	vLeWRljz       	   13	YES	1
+14	BwneXx9LOICx   	   12	NO	3
+15	k4elI3qsD      	   12	NO	4
+16	OxsTj0KuxcF    	   13	NO	4
+17	0sn0i4RbeESz4Di	   17	YES	1
+18	N769jtoo92     	   11	NO	8
+19	---               ---	---	---
+20	RNvLulZY53tzQqu	   20	YES	1
+21	GKeYHNqHXD4rQCi	   21	YES	1
+22	---               ---	---	---
+23	cFmHinKucBnx   	   23	YES	1
+24	FpxxnMF7VLuug  	   23	NO	2
+25	E90o6oVUW16    	   25	YES	1
+26	PtPuO          	   24	NO	3
+27	JkV8mkJCLYcvca 	   27	YES	1
+28	GhEtMnt1EQ6Lb  	   27	NO	2
+29	QFuFNhRn0o2    	   29	YES	1
+30	UQ6ikugv2OL    	   30	YES	1
+31	aGLcQy0rG      	   31	YES	1
+32	mmrcDxE5m9Zsze 	   30	NO	3
+33	LRe1qNjhnmeP   	   31	NO	3
+34	JQ3Ux          	   34	YES	1
+35	um3DkNcpM      	   35	YES	1
+36	ZFbog9xSgjhtz0 	   35	NO	2
+37	CJcqP26bjx2    	   37	YES	1
+38	Y0WOdl5PrMgLUF 	   37	NO	2
+39	52VxwADLyJ3    	   37	NO	3
+40	EXzu3w         	   36	NO	5
+41	Ez3uHc6LTqdhz  	   39	NO	3
+42	BK17Rd         	   35	NO	8
+43	eg9U2gky       	   31	NO	13
+44	C1Uj6u5NP      	   44	YES	1
+45	JAzZF          	   44	NO	2
+46	8gShK          	   46	YES	1
+47	esvFrLHVb10    	   44	NO	4
+48	QdYjFUF8uuI2Mzl	   48	YES	1
+49	7PEqK1aBaq8LwT 	   48	NO	2
+50	fyjiqJSI       	   24	NO	27
+51	kbU17g7B       	   50	NO	2
+52	sFGdbNmn       	   36	NO	17
+53	BgWPU          	   53	YES	1
+54	K06krsjJDVB7s  	   53	NO	2
+55	5vW41          	   53	NO	3
+56	tR4av6BaxWKym  	   39	NO	18
+57	IeSEGNJ        	   44	NO	14
+58	5IQbCg31SWuz   	   58	YES	1
+59	dx7pXT         	   59	YES	1
+60	uHQWd5         	   59	NO	2
+61	TEMm2A7cQvZv   	   61	YES	1
+62	---               ---	---	---
+63	1aDpb2VsA      	   63	YES	1
+64	KjAUXj0PyH     	   63	NO	2
+65	0oXnhvGs3mxa   	   63	NO	3
+66	7MsznK         	   66	YES	1
+67	XtqUI          	   67	YES	1
+68	28CbHJG        	   68	YES	1
+69	UmWqNxlaP      	   69	YES	1
+70	wcTW3          	   69	NO	2

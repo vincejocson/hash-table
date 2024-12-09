@@ -1,0 +1,43 @@
+32
+32
+21
+11
+1.843750
+
+0	pEA3O1Vga      	   35	NO	3
+1	v1M5CpIgasS    	    1	YES	1
+2	v1kIxcNm861f   	    2	YES	1
+3	---               ---	---	---
+4	0azuST4cpg     	    4	YES	1
+5	2AC9O          	    5	YES	1
+6	IqWl5n03       	    6	YES	1
+7	GbZYbkpZa      	    6	NO	2
+8	RTEZeClJMS5lnD 	    8	YES	1
+9	---               ---	---	---
+10	2SIhLMO        	   10	YES	1
+11	9Vv5U          	   11	YES	1
+12	hairz          	   11	NO	2
+13	BDP9W4DoQjr5   	   13	YES	1
+14	70Dbm3mj       	   12	NO	3
+15	qR1C1ly        	   15	YES	1
+16	9K3lQ4         	   15	NO	2
+17	40SHG6         	   17	YES	1
+18	WiPTOZvIAhHjx8A	   10	NO	9
+19	8BIXKPIyWzOY   	   15	NO	5
+20	HpCEB0j        	   20	YES	1
+21	HiBUulnqy      	   21	YES	1
+22	6Briw8NKhU7    	   20	NO	3
+23	---               ---	---	---
+24	---               ---	---	---
+25	---               ---	---	---
+26	btaVenKSzobDE  	   26	YES	1
+27	AZ74cuU        	   27	YES	1
+28	lOWdhyN5rX7ejlg	   28	YES	1
+29	bjad2G         	   27	NO	3
+30	vo7CyqKc6      	   30	YES	1
+31	XViTdA9pJuqlZ  	   31	YES	1
+32	o1ZGtKmWM5f2GU 	   31	NO	2
+33	5KCPneH        	   33	YES	1
+34	6WTjG          	   34	YES	1
+35	WwHAp6BWb      	   35	YES	1
+36	g3s8tM         	   33	NO	4
